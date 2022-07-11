@@ -10,7 +10,7 @@ loading_icon =
    
    function (output){
       
-      shinycssloaders::withSpinner(output,color="#0088CC", size=3)
+      shinycssloaders::withSpinner(output,color="#00ad93", size=3)
       
    }
 
